@@ -174,49 +174,49 @@ The Personalized News System demonstrates how cloud-based solutions enhance user
 Below are the snapshots extracted from the report, in original order:
 
 
-![Screenshot](docs/screenshots/image_1.png)
+![Screenshot](screenshots/image_1.png)
 
-![Screenshot](docs/screenshots/image_2.png)
+![Screenshot](screenshots/image_2.png)
 
-![Screenshot](docs/screenshots/image_3.png)
+![Screenshot](screenshots/image_3.png)
 
-![Screenshot](docs/screenshots/image_4.png)
+![Screenshot](screenshots/image_4.png)
 
-![Screenshot](docs/screenshots/image_5.png)
+![Screenshot](screenshots/image_5.png)
 
-![Screenshot](docs/screenshots/image_6.png)
+![Screenshot](screenshots/image_6.png)
 
-![Screenshot](docs/screenshots/image_7.png)
+![Screenshot](screenshots/image_7.png)
 
-![Screenshot](docs/screenshots/image_8.png)
+![Screenshot](screenshots/image_8.png)
 
-![Screenshot](docs/screenshots/image_9.png)
+![Screenshot](screenshots/image_9.png)
 
-![Screenshot](docs/screenshots/image_10.png)
+![Screenshot](screenshots/image_10.png)
 
-![Screenshot](docs/screenshots/image_11.png)
+![Screenshot](screenshots/image_11.png)
 
-![Screenshot](docs/screenshots/image_12.png)
+![Screenshot](screenshots/image_12.png)
 
-![Screenshot](docs/screenshots/image_13.png)
+![Screenshot](screenshots/image_13.png)
 
-![Screenshot](docs/screenshots/image_14.png)
+![Screenshot](screenshots/image_14.png)
 
-![Screenshot](docs/screenshots/image_15.png)
+![Screenshot](screenshots/image_15.png)
 
-![Screenshot](docs/screenshots/image_16.png)
+![Screenshot](screenshots/image_16.png)
 
-![Screenshot](docs/screenshots/image_17.png)
+![Screenshot](screenshots/image_17.png)
 
-![Screenshot](docs/screenshots/image_18.png)
+![Screenshot](screenshots/image_18.png)
 
-![Screenshot](docs/screenshots/image_19.png)
+![Screenshot](screenshots/image_19.png)
 
-![Screenshot](docs/screenshots/image_20.png)
+![Screenshot](screenshots/image_20.png)
 
-![Screenshot](docs/screenshots/image_21.png)
+![Screenshot](screenshots/image_21.png)
 
-![Screenshot](docs/screenshots/image_22.png)
+![Screenshot](screenshots/image_22.png)
 
 
 
