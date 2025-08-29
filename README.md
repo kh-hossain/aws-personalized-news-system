@@ -15,7 +15,7 @@ It leverages a **serverless architecture** with Lambda functions, DynamoDB, SES,
 - User registration & deregistration via **API Gateway**
 - **News fetching** from NewsAPI.org
 - **User profile management** in DynamoDB
-- Automated **daily/weekly personalized news emails**
+- Automated **daily/weekly personalized news emails** via **AWS EventBridge**
 - Email delivery via **AWS SES**
 
 ## Repository Contents
